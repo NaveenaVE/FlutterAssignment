@@ -62,7 +62,7 @@ To run this application, you need to have Flutter installed on your system. If y
 
 ### Installation
 
-1. Clone this repository:
+[1. Clone this repository:
 
 ```bash
 git clone [https://github.com/NaveenaVE/FlutterAssignment.git]
@@ -73,7 +73,7 @@ cd techquest
 3.Install dependencies:
 flutter pub get
 
-## Running the App
+4.Running the App
 
 To run the app, you can use an emulator/simulator or a physical device connected to your development environment.
 
@@ -81,9 +81,10 @@ Using an Emulator/Simulator
 Start your preferred emulator/simulator.
 
 Run the app using the following command:
-flutter run
+flutter run]
 
-**Navigation**
+
+##Navigation
 The app's homepage consists of three buttons, each navigating to a specific page:
 
 Button 1: Navigates to the File Upload page.
