@@ -12,26 +12,26 @@ It's configured with Flutter SDK,Firebase for file upload, Navigation,File Picke
 - Allows users to select files upto 10MB and upload it on firebase.
 - Supported file formats: PDF, DOCX, TXT, JPG, PNG, etc.
 
-![File Upload](images/fileupload0.png)
-![File Upload](images/fileupload1.png)
-![File Upload](images/fileupload2.png)
-![File Upload](images/fileupload3.png)
-![File Upload](images/fileupload4.png)
-![File Upload](images/fileupload5.png)
+<img src="/images/fileupload0.png" alt="File Upload" width="200"/>
+<img src="/images/fileupload1.png" alt="File Upload" width="200"/>
+<img src="/images/fileupload2.png" alt="File Upload" width="200"/>
+<img src="/images/fileupload3.png" alt="File Upload" width="200"/>
+<img src="/images/fileupload4.png" alt="File Upload" width="200"/>
+<img src="/images/fileupload5.png" alt="File Upload" width="200"/>
 
 ### Page 2: Find nth Element in Fibonacci Series
 - Users can find the nth element in the Fibonacci series.
 - Simply input the value of n and get the corresponding Fibonacci number.
 
-- ![File Upload](images/fibonacci1.png)
-- ![File Upload](images/fibonacci2.png)
-- ![File Upload](images/fibonacci3.png)
+<img src="/images/fibonacci1.jpeg" alt="Fibonacci Element" width="200"/>
+<img src="/images/fibonacci2.png" alt="Fibonacci Element" width="200"/>
+<img src="/images/fibonacci3.png" alt="Fibonacci Element" width="200"/>
 
 ### Page 3: Find Longest Balanced Substring
 - Users can find the longest balanced substring in a given string.
 - A balanced substring is one where the number of occurances of the two characters are equal.
 
-- ![File Upload](images/substring.png)
+<img src="/images/substring" alt="Balanced Substring" width="200"/>
 
 ## Getting Started
 
