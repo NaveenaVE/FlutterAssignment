@@ -89,7 +89,8 @@ Run the app using the following command:
 flutter run
 ```
 
-##Navigation
+### Navigation
+
 The app's homepage consists of three buttons, each navigating to a specific page:
 
 Button 1: Navigates to the File Upload page.
