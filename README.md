@@ -66,6 +66,7 @@ To run this application, you need to have Flutter installed on your system. If y
 
 ```bash
 git clone [https://github.com/NaveenaVE/FlutterAssignment.git]
+```
 
 2. Navigate to the project directory:
 ```bash
