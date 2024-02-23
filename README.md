@@ -73,7 +73,8 @@ cd techquest
 3.Install dependencies:
 flutter pub get
 
-**Running the App**
+## Running the App
+
 To run the app, you can use an emulator/simulator or a physical device connected to your development environment.
 
 Using an Emulator/Simulator
