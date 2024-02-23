@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400305518279",
+    "project_id": "techquest-1533c",
+    "storage_bucket": "techquest-1533c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400305518279:android:fa76e1a58fa202307ab0e2",
+        "android_client_info": {
+          "package_name": "com.vetest.techquestion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklG32RnCa-SAxXTiWvaYR-UQKORSzAJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
