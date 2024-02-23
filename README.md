@@ -62,27 +62,28 @@ To run this application, you need to have Flutter installed on your system. If y
 
 ### Installation
 
-[1. Clone this repository:
+1. Clone this repository:
 
 ```bash
 git clone [https://github.com/NaveenaVE/FlutterAssignment.git]
 
 2. Navigate to the project directory:
+```bash
 cd techquest
 
 3.Install dependencies:
+```bash
 flutter pub get
 
 4.Running the App
-
 To run the app, you can use an emulator/simulator or a physical device connected to your development environment.
 
 Using an Emulator/Simulator
 Start your preferred emulator/simulator.
 
 Run the app using the following command:
+```bash
 flutter run]
-
 
 ##Navigation
 The app's homepage consists of three buttons, each navigating to a specific page:
