@@ -73,12 +73,12 @@ git clone [https://github.com/NaveenaVE/FlutterAssignment.git]
 cd techquest
 ```
 
-3.Install dependencies:
+3. Install dependencies:
 ```bash
 flutter pub get
 ```
 
-4.Running the App
+4. Running the App
 To run the app, you can use an emulator/simulator or a physical device connected to your development environment.
 
 Using an Emulator/Simulator
