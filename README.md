@@ -1,29 +1,83 @@
-# techquest
-
+# TechQuest
 Hi Welcome to Flutter Asssigment Repository # TechQuest 
+TechQuest is a flutter application that has three different tasks.This app provides simple UI and scalable project structure that goes beyond the simple counter example.
 
-This Repository consist of three task assisged. It consist of a home screen which consits of three button each lead to any indiviually task 
+The app has basic Home Screen, Upload Files screen, Find an element in fibonacci series and Find longest balanced substring screens.
 
-On First Button :
+It's configured with Flutter SDK,Firebase for file upload, Navigation,File Picker,Video Player.
+
+## Features
+
+### Page 1: File Upload
+- Allows users to select files upto 10MB and upload it on firebase.
+- Supported file formats: PDF, DOCX, TXT, JPG, PNG, etc.
+
+![File Upload](images/fileupload0.png)
+![File Upload](images/fileupload1.png)
+![File Upload](images/fileupload2.png)
+![File Upload](images/fileupload3.png)
+![File Upload](images/fileupload4.png)
+![File Upload](images/fileupload5.png)
+
+### Page 2: Find nth Element in Fibonacci Series
+- Users can find the nth element in the Fibonacci series.
+- Simply input the value of n and get the corresponding Fibonacci number.
+
+- ![File Upload](images/fibonacci1.png)
+- ![File Upload](images/fibonacci2.png)
+- ![File Upload](images/fibonacci3.png)
+
+### Page 3: Find Longest Balanced Substring
+- Users can find the longest balanced substring in a given string.
+- A balanced substring is one where the number of occurances of the two characters are equal.
+
+- ![File Upload](images/substring.png)
+
+## Getting Started
+
+To run this application, you need to have Flutter installed on your system. If you haven't installed Flutter yet, you can follow the instructions [here](https://flutter.dev/docs/get-started/install).
+
+### Installation
+
+1. Clone this repository:
+
+```bash
+git clone [https://github.com/NaveenaVE/FlutterAssignment.git]
+
+2. Navigate to the project directory:
+cd techquest
+
+3.Install dependencies:
+flutter pub get
+
+**Running the App**
+To run the app, you can use an emulator/simulator or a physical device connected to your development environment.
+
+Using an Emulator/Simulator
+Start your preferred emulator/simulator.
+
+Run the app using the following command:
+flutter run
+
+**Navigation**
+The app's homepage consists of three buttons, each navigating to a specific page:
+
+Button 1: Navigates to the File Upload page.
+Button 2: Navigates to the Fibonacci Series page.
+Button 3: Navigates to the Longest Balanced Substring page.
+
+This Repository consist of three task assisged. It consist of a home screen which consits of three button each navigates to any indiviually task 
+
+Page 1 :
 
 We show case a UI designed and functioning in flutter where user can upload  image or video, from his/her local device or Google drive which consist of maxmium size 10MB. The upload file is successfully uploaded to firebase storage, from where user can download and interact with image or video. 
 
 Along this while file geeting uploaded to firebase storage user can see the progress of file uploading along parallel preview, once file is uploaded or leads to error appropriate message is displayed. 
 
-![Screenshot_20240223_211608](https://github.com/NaveenaVE/FlutterAssignment/assets/161052771/368a1314-ac49-49ae-b1a6-dbd21b26735d)
-
-
-on Second button :
+Page 2 :
 
 Create a straight forward logic that utilizes a recursive function to determine the Fibonacci value at a specified position. Ensuring  performance at scale, allowing it to handle larger numbers without experiencing exponential slowdown. When dealing with substantial numbers where the Fibonacci value becomes excessively large, the application should display an infinity sign instead.
 
-![Screenshot_20240223_211603](https://github.com/NaveenaVE/FlutterAssignment/assets/161052771/93e759bd-9e7a-452e-96dc-a917b35ca2b6)
-![Screenshot_20240223_211559](https://github.com/NaveenaVE/FlutterAssignment/assets/161052771/468c21d7-0ec2-43cc-a88d-84b46809476a)
+Page 3 :
 
-On Third button
-
- Implement a function called getBalancedSubstrings(List S) that returns an array of the longest balanced substrings of the input string S
-
-![Screenshot_20240223_211548](https://github.com/NaveenaVE/FlutterAssignment/assets/161052771/2f3bbad4-a6a9-4111-8672-698212110945)
-![Screenshot_20240223_211544](https://github.com/NaveenaVE/FlutterAssignment/assets/161052771/365ecc1b-c4c1-49dd-a686-82a6fe1faa47)
-![Screenshot_20240223_211521](https://github.com/NaveenaVE/FlutterAssignment/assets/161052771/476dacc0-4151-48d3-968e-ba9bbf2993bc)
+Implement a function called getBalancedSubstrings(List S) that returns an array of the longest balanced substrings of the input string S
